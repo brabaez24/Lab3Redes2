@@ -5,7 +5,6 @@ Este laboratorio busca que el estudiante ponga en práctica todos los conceptos 
 ![original-617163316eb6d92169513ce7ea930dfe](https://user-images.githubusercontent.com/93276000/229650633-619787cb-a713-4c3d-8614-80433a401863.jpg)
 
 Integrantes:
-* Andrés Aldana
 * Brayan Baez
 * Melissa Pérez
 
